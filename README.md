@@ -6,4 +6,4 @@ Automatic hand sanitizer dispensers are often utilized in places like hospitals 
 # Program Details
 The open-source framework mediapipe was utilized in detecting different points on the hand, which allowed the area of the palm to be calculated in pixels using Heron's formula. 
 # Material Information
-The hand sanitizer stand and dispenser this code was created for was the PURELL ES6 Dispenser Floor Stand with ES6 Automatic Dispenser (https://www.amazon.com/PURELL-Dispenser-Floor-Stand-Graphite/dp/B08VD6H3BD?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AVG3BI4EO2YS9)
+The hand sanitizer stand and dispenser this code was created for was the PURELL ES6 Dispenser Floor Stand with ES6 Automatic Dispenser 
